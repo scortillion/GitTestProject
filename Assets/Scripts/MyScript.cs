@@ -7,6 +7,7 @@ public class MyScript : MonoBehaviour {
 	void Start () {
         print("My First Git Project");
         print("Something Changed");
+        print("Added Something ELSE");
 	
 	}
 	
